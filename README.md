@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+deployment
+
 ## How to cintribute
+
+how to contribyte
