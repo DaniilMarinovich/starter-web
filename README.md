@@ -13,3 +13,6 @@ deployment
 ## How to cintribute
 
 how to contribyte
+
+## Copyright
+Copiryte 2025
