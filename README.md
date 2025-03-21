@@ -12,7 +12,7 @@ deployment
 
 ## How to cintribute
 
-how to contribyte
+Please fork this repository and then issue Pull Requests for review
 
 ## Copyright
 Copiryte 2025
